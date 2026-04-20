@@ -2,6 +2,7 @@
 # Автор: monty-powmia
 # Обновлено: 2026/04/20
 
+# Домены
 DOMAIN,ip.mail.ru
 DOMAIN,checkip.amazonaws.com
 DOMAIN,api.ipify.org
