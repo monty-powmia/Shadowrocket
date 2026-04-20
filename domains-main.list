@@ -1,3 +1,7 @@
+# Основной список проксируемых доменов
+# Автор: monty-powmia
+# Обновлено: 2026/04/20
+
 DOMAIN-SUFFIX,2ip.ru
 DOMAIN-SUFFIX,anydesk.com
 DOMAIN-SUFFIX,qr-code-generator.com
@@ -5,7 +9,7 @@ DOMAIN-SUFFIX,pokemondb.net
 DOMAIN-SUFFIX,adguard.com
 DOMAIN-SUFFIX,adguardaccount.net
 DOMAIN-SUFFIX,adguardaccount.com
-DOMAIN-SUFFIX,trak.tv
+DOMAIN-SUFFIX,trakt.tv
 DOMAIN-SUFFIX,kartina.tv
 DOMAIN-SUFFIX,shazam.com
 DOMAIN-SUFFIX,lgthinq.com
