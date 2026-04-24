@@ -9,4 +9,4 @@ DOMAIN,api.ipify.org
 DOMAIN,ifconfig.me
 DOMAIN,ipv4-internet.yandex.net
 DOMAIN,ipv6-internet.yandex.net
-DOMAIN,st.max.ru
+#DOMAIN,st.max.ru
