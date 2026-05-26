@@ -1,6 +1,5 @@
 # Основной список проксируемых доменов
 # Автор: monty-powmia
-# Обновлено: 2026/04/20
 
 # Домены
 #DOMAIN-SUFFIX,ishosting.com
@@ -22,3 +21,4 @@ DOMAIN-SUFFIX,battle.net
 DOMAIN-SUFFIX,nvidia.com
 DOMAIN-SUFFIX,redgifs.com
 DOMAIN-SUFFIX,pixiv.net
+IP-CIDR,151.101.195.6/32
