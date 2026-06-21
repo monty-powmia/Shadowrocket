@@ -14,7 +14,7 @@ DOMAIN-SUFFIX,adguardaccount.com
 DOMAIN-SUFFIX,trakt.tv
 DOMAIN-SUFFIX,kartina.tv
 DOMAIN-SUFFIX,shazam.com
-DOMAIN-SUFFIX,lgthinq.com
+#DOMAIN-SUFFIX,lgthinq.com
 DOMAIN-SUFFIX,discord.com
 DOMAIN-SUFFIX,battle.net
 DOMAIN-SUFFIX,nvidia.com
