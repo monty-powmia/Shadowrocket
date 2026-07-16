@@ -2,8 +2,6 @@
 # Автор: monty-powmia
 
 # Домены
-#DOMAIN-SUFFIX,ishosting.com
-#DOMAIN-SUFFIX,x5-454.net
 DOMAIN-SUFFIX,amnezia.org
 DOMAIN-SUFFIX,anydesk.com
 DOMAIN-SUFFIX,qr-code-generator.com
@@ -14,8 +12,6 @@ DOMAIN-SUFFIX,adguardaccount.com
 DOMAIN-SUFFIX,trakt.tv
 DOMAIN-SUFFIX,kartina.tv
 DOMAIN-SUFFIX,shazam.com
-#DOMAIN-SUFFIX,lgthinq.com
-DOMAIN-SUFFIX,discord.com
 DOMAIN-SUFFIX,battle.net
 DOMAIN-SUFFIX,nvidia.com
 DOMAIN-SUFFIX,redgifs.com
