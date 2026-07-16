@@ -4,10 +4,8 @@
 # Домены
 #DOMAIN,tracker-api.vk-analytics.ru
 DOMAIN-SUFFIX,vk-analytics.ru
-DOMAIN,2ip.ru
 DOMAIN,ip.mail.ru
 DOMAIN,checkip.amazonaws.com
 DOMAIN,api.ipify.org
-DOMAIN,ifconfig.me
 DOMAIN,ipv4-internet.yandex.net
 DOMAIN,ipv6-internet.yandex.net
