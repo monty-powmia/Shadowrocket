@@ -1,8 +1,8 @@
 # Основной список проксируемых доменов
-# Автор: monty-powmia
+# Автор: Монти
 
 # Домены
-DOMAIN-SUFFIX,conn-liberty.net
+#DOMAIN-SUFFIX,conn-liberty.net
 DOMAIN-SUFFIX,hl1sfx.com
 DOMAIN-SUFFIX,qr-code-generator.com
 DOMAIN-SUFFIX,amnezia.org
